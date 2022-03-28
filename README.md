@@ -1,4 +1,4 @@
-# Tick Tac Toe
+# Tic Tac Toe
 
 Tic tac toe Online Game
 
